@@ -130,3 +130,44 @@ For detailed information about the implementation, see:
    ```
 
 On Windows, you can also double-click `run.bat` to use the menu-driven interface.
+
+🎭 KALKI AI - JARVIS SYSTEM OVERVIEW
+🚀 What This Tool Does:
+This is a complete JARVIS-inspired AI assistant with advanced capabilities:
+
+🎤 VOICE FEATURES:
+Wake Word: Say "Fantastic" to activate JARVIS
+Language: Hindi-English mixed responses (like you requested)
+Voice: Male JARVIS-like voice (not female)
+Commands: Natural voice commands for everything
+🤚 GESTURE CONTROLS (From Your Video):
+Hand Right Wave → Next page/tab
+Hand Left Wave → Previous page/tab
+Hand Down → Minimize all windows
+One Finger Up → Restore from minimize
+Both Hands Open → Zoom in
+Both Hands Fist → Zoom out
+Clap Gesture → Take screenshot
+Prayer Hands → Start/Stop screen recording
+🎵 ADDITIONAL CONTROLS:
+Thumbs Up/Down → Volume control
+Peace Sign → Play/Pause media
+Pinch → Mute/Unmute
+Fist → Close tab
+Open Palm → New tab
+Four Fingers → Show desktop
+📝 TASK MANAGEMENT:
+"Remember this task" → Add tasks with voice
+"Today tasks kya hain" → Get today's tasks
+"Tomorrow ka kaam" → Get tomorrow's tasks
+Voice reminders → Daily task summaries
+🤖 AI COMPANION:
+Proactive conversations → Asks how to help
+Regular check-ins → Motivational messages
+Smart suggestions → Context-aware help
+Human-like personality → Like JARVIS from movies
+🛠️ SYSTEM AUTOMATION:
+File operations → Create documents, spreadsheets
+System control → Window management, app launching
+Web automation → Browser control, searches
+Code generation → Programming assistance
