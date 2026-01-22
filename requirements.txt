@@ -1,0 +1,29 @@
+# KALKI AI Requirements
+
+# UI Framework
+PyQt5>=5.15.0
+
+# Voice Recognition
+SpeechRecognition>=3.8.1
+
+# Text-to-Speech
+edge-tts>=6.1.0
+
+# Web Framework (for future phases)
+fastapi>=0.68.0
+uvicorn>=0.15.0
+
+# Database (for future phases)
+sqlalchemy>=1.4.0
+
+# Document Processing (for future phases)
+python-docx>=0.8.11
+openpyxl>=3.0.7
+
+# AI and NLP (for future phases)
+langchain>=0.0.100
+
+# Hand Gesture Recognition
+mediapipe>=0.10.0
+opencv-python>=4.8.0
+numpy>=1.24.0
